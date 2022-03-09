@@ -6,3 +6,5 @@ Documentation can be found at https://docs.google.com/document/d/e/2PACX-1vSNnKN
 At the moment, MySwimDB is only optimized for MacOS. Future versions may include a Windows or Linux optimized database, but this has not yet been decided.
 
 The files in the repository are for LibreOffice Base and Writer, please download these before attempting to open files.
+
+This was created using LibreOffice 6.4.5.2
