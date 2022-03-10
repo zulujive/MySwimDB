@@ -1,7 +1,7 @@
 # MySwimDB
 MySwimDB is a database dedicated to managing swim meets. It's free to use by anyone, and requires only some basic technical knowledge
 
-<img>https://github.com/zulujive/MySwimDB/blob/main/myswimdblogoimage.png?raw=true</img>
+<img src="https://github.com/zulujive/MySwimDB/blob/main/myswimdblogoimage.png?raw=true" alt="Girl in a jacket" width="500" height="600">
 
 Documentation can be found at https://docs.google.com/document/d/e/2PACX-1vSNnKNEUtfAu7GS6suHqUaq75xMJVepXr2KJs3JEjJfDj62M2b3DAB3WkzdpACEHM6WFrMuyOrBIE3y/pub
 
